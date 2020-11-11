@@ -10,3 +10,8 @@ Use make to compile.
 
 MazeSolver uses STD::CIN, so use the syntax "./mazesolver <input_file >output_file", or don't use an output file if you want to see the result in console.
 Depending on the size of the maze however, this may lead to the cardinal directions pushing the maze off the screen.
+
+Tests included:
+Sample01 (Came With Assignment)
+No<whatever> (Mazes missing an item to test failure)
+Tall/Wide/Biggest (Mazes to test size limits of program)
